@@ -1,5 +1,6 @@
 # See 'repos.txt.example' file
 
-# Format: owner/repo|filter1|filter2|...
+# Format: AppFlowy-IO/appflowy|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
+AppFlowy-IO/appflowy|AppFlowy-0.11.9-macos-x86_64.zip
