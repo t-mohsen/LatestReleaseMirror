@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `AppFlowy-0.11.9-macos-x86_64.zip` | 92.9 MB | [⬇️ Download](https://raw.githubusercontent.com/t-mohsen/LatestReleaseMirror/main/releases/AppFlowy-IO/appflowy/AppFlowy-0.11.9-macos-x86_64.zip) |
+| `AppFlowy-0.11.9-windows-x86_64.exe` | 73.5 MB | [⬇️ Download](https://raw.githubusercontent.com/t-mohsen/LatestReleaseMirror/main/releases/AppFlowy-IO/appflowy/AppFlowy-0.11.9-windows-x86_64.exe) |
 <!-- RELEASES_END -->
