@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="appflowy-io--appflowy"></div>
 
+### AppFlowy-IO--appflowy
+
+🔗 [source](https://github.com/AppFlowy-IO/appflowy) – [<code><small>0.11.9</small></code>](https://github.com/AppFlowy-IO/appflowy/releases/tag/0.11.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `AppFlowy-0.11.9-macos-x86_64.zip` | 92.9 MB | [⬇️ Download](https://raw.githubusercontent.com/t-mohsen/LatestReleaseMirror/main/releases/AppFlowy-IO/appflowy/AppFlowy-0.11.9-macos-x86_64.zip) |
 <!-- RELEASES_END -->
