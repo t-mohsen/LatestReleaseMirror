@@ -4,3 +4,5 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 AppFlowy-IO/appflowy|AppFlowy-0.11.9-windows-x86_64.exe
+therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-windows-amd64.zip
+
