@@ -166,4 +166,16 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `AppFlowy-0.11.9-windows-x86_64.exe` | 73.5 MB | [⬇️ Download](https://raw.githubusercontent.com/t-mohsen/LatestReleaseMirror/main/releases/AppFlowy-IO/appflowy/AppFlowy-0.11.9-windows-x86_64.exe) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.25</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.25)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/t-mohsen/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
